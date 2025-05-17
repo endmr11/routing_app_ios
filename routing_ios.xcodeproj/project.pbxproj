@@ -6,13 +6,8 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		B07556F72DD7A74500A185A6 /* MapAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B07556F62DD7A74500A185A6 /* MapAnnotation.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		B07556B02DD7A05500A185A6 /* routing_ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = routing_ios.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		B07556F62DD7A74500A185A6 /* MapAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -39,7 +34,6 @@
 			children = (
 				B07556B22DD7A05500A185A6 /* routing_ios */,
 				B07556B12DD7A05500A185A6 /* Products */,
-				B07556F62DD7A74500A185A6 /* MapAnnotation.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,7 +119,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B07556F72DD7A74500A185A6 /* MapAnnotation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
