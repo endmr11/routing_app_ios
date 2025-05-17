@@ -69,4 +69,4 @@ This project is [MIT](LICENSE) licensed.
 ## 🌐 Related Projects
 
 - [routing_backend](https://github.com/endmr11/routing_app/tree/main/routing_backend)
-- [routing_frontend](https://github.com/endmr11/routing_app/tree/main/frontend) 
+- [routing_frontend](https://github.com/endmr11/routing_app/tree/main/routing_frontend) 
