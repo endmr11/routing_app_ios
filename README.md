@@ -1,6 +1,10 @@
-# 📱 routing_ios
+# 📱 Route Optimization iOS App
 
-**routing_ios** is the official iOS client for the Route Optimization Platform. Built with SwiftUI and Combine, this app enables users to visualize, plan, and manage optimized delivery routes with a modern, map-based interface.
+**Route Optimization iOS App** is the official iOS client for the Route Optimization Platform. Built with SwiftUI and Combine, this app enables users to visualize, plan, and manage optimized delivery routes with a modern, map-based interface.
+
+## 🌐 Related Projects
+
+- [routing_backend](https://github.com/endmr11/routing_app/tree/main/routing_backend)
 
 ## 🚀 Features
 
@@ -65,8 +69,3 @@ Feel free to check the [issues page](https://github.com/yourusername/routing_ios
 ## 📄 License
 
 This project is [MIT](LICENSE) licensed.
-
-## 🌐 Related Projects
-
-- [routing_backend](https://github.com/endmr11/routing_app/tree/main/routing_backend)
-- [routing_frontend](https://github.com/endmr11/routing_app/tree/main/routing_frontend) 
